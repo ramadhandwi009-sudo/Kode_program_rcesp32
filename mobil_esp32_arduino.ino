@@ -1,5 +1,5 @@
 # Kode_program_rcesp32
-// === PROGRAM PENERIMA (MOBIL) ===
+// === PROGRAM (MOBIL) ===
 // ESP32 + L298N + Bluetooth Classic
 #include <Arduino.h>
 #include <BluetoothSerial.h>
